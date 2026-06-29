@@ -94,7 +94,6 @@ def evaluate_models(X_train, y_train, X_test, y_test, models,params):
 
             report[name] = test_r2
 
-
         return report
 
     except Exception as e:
