@@ -128,13 +128,13 @@ AWS CodePipeline
 
 ### CodePipeline — Source + Deploy (Both Succeeded ✅)
 
-![CodePipeline — Source and Deploy Succeeded](https://github.com/user-attachments/assets/PLACEHOLDER_codepipeline)
+<img width="1913" height="797" alt="Screenshot 2026-06-28 141306" src="https://github.com/user-attachments/assets/737825f2-dc19-4275-ac42-bfe73b0d9cbb" />
 
 ### Live on Elastic Beanstalk
 
 App running on the public EBS URL — `projectmeridian.ap-south-1.elasticbeanstalk.com`.
 
-![Live on Elastic Beanstalk](https://github.com/user-attachments/assets/PLACEHOLDER_ebs_live)
+<img width="1918" height="971" alt="Screenshot 2026-06-28 141441" src="https://github.com/user-attachments/assets/7f0c7ffc-b576-4256-aafe-47eadc91350d" />
 
 ---
 
